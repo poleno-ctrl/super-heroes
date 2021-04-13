@@ -1,0 +1,44 @@
+body{
+	font-family: 'Arial';
+	margin: 0;
+}
+
+.mainheader{
+	background-color: darkred;
+	color: #fff;
+	padding: 20px 100px;
+}
+
+.mainnav-link{
+	color: #fff;
+}
+
+.mainnav-list{
+	margin: 0;
+	padding: 0;
+}
+
+.mainnav-item{
+	display: inline-block;
+	padding: 5px 10px;
+	border: 1px solid #fff;
+}
+
+main{
+	padding: 50px 100px;
+}
+
+.mainfooter{
+	padding: 10px 100px;
+	background-color: darkslategray;
+	color: #fff;
+}
+.hero{
+    display: inline-block;
+    width: 200px;
+    padding: 20px;
+    margin: 0px 20px 0px 20px;
+    text-align: center;
+    border: 1px solid #000;
+    vertical-align: top;
+}
