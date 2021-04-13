@@ -7,6 +7,10 @@ body{
 	background-color: darkred;
 	color: #fff;
 	padding: 20px 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
 }
 
 .mainnav-link{
@@ -25,13 +29,17 @@ body{
 }
 
 main{
-	padding: 50px 100px;
+	padding: 200px 100px;
 }
 
 .mainfooter{
 	padding: 10px 100px;
 	background-color: darkslategray;
 	color: #fff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 .hero{
     display: inline-block;
